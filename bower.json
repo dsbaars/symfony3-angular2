@@ -1,0 +1,23 @@
+{
+  "name": "symfony3-angular2",
+  "authors": [
+    "Djuri Baars <dsbaars@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/dsbaars/symfony3-angular2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular2": "angular-es6#^2.0.0-rc.1",
+    "rxjs": "^4.1.0",
+    "systemjs": "*"
+  }
+}
